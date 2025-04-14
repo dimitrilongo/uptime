@@ -1,20 +1,40 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
+    "name": "Lexolia",
+    "url": "https://www.lexolia.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.lexolia.com.ico",
+    "slug": "lexolia",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 82,
-    "timeWeek": 82,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "time": 1194,
+    "timeDay": 1194,
+    "timeWeek": 1194,
+    "timeMonth": 1194,
+    "timeYear": 1194,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Lexolia APP",
+    "url": "https://www.app.lexolia.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.app.lexolia.com.ico",
+    "slug": "lexolia-app",
+    "status": "down",
+    "uptime": "31.62%",
+    "uptimeDay": "31.62%",
+    "uptimeWeek": "31.62%",
+    "uptimeMonth": "31.62%",
+    "uptimeYear": "31.62%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2025-04-14": 0
+    }
   }
 ]
