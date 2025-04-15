@@ -6,7 +6,7 @@ sites:
   - name: Lexolia
     url: https://www.lexolia.com
   - name: Lexolia APP
-    url: https://www.app.lexolia.com
+    url: https://app.lexolia.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
