@@ -7,6 +7,8 @@ sites:
     url: https://www.lexolia.com
   - name: Lexolia APP
     url: https://app.lexolia.com
+  - name: Lexolia CRM
+    url: https://crm.lexolia.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -23,6 +25,8 @@ status-website:
       href: https://lexolia.com
     - title: Lexolia App
       href: https://app.lexolia.com
+    - title: Lexolia CRM
+      href: https://crm.lexolia.com
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 i18n:
